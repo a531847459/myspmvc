@@ -200,5 +200,6 @@
 	</build>
 	<modules>
 		<module>myspmvc-jdbc</module>
+		<module>myspmvc-api</module>
 	</modules>
 </project>
